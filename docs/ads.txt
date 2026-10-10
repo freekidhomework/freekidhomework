@@ -1,2 +1,1 @@
-# Replace this line with the one AdSense gives you, for example:
-# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+google.com, pub-1188916265431912, DIRECT, f08c47fec0942fa0
