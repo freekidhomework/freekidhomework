@@ -1,0 +1,18 @@
+---
+title: "Free printable math workbooks"
+subtitle: "Clean 10-page PDFs with answer keys for Grades 1 to 4. No sign-up, no pop-ups: pick a workbook and print."
+lang: en
+page-layout: full
+title-block-banner: false
+listing:
+  contents: "en/**/*.qmd"
+  type: grid
+  grid-columns: 4
+  sort: "order"
+  categories: true
+  filter-ui: true
+  sort-ui: false
+  page-size: 200
+  image-height: 230px
+  fields: [image, title, categories, description]
+---

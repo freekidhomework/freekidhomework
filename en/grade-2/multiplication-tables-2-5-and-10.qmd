@@ -1,0 +1,30 @@
+---
+title: "Multiplication tables: 2, 5 and 10"
+subtitle: "Grade 2 · math workbook · free printable PDF"
+description: "The first times tables children learn: 2, 5 and 10, in mixed order."
+pagetitle: "Multiplication tables: 2, 5 and 10 - Grade 2 math workbook (free printable PDF)"
+categories: ["Grade 2", "Multiplication"]
+image: multiplication-tables-2-5-and-10.png
+order: 16
+lang: en
+---
+
+::: {.wb}
+::: {.wb-preview}
+[![Multiplication tables: 2, 5 and 10](multiplication-tables-2-5-and-10.png)](grade-2-multiplication-tables-2-5-and-10.pdf)
+:::
+::: {.wb-info}
+[Download the PDF (10 pages)](grade-2-multiplication-tables-2-5-and-10.pdf){.btn .btn-primary .btn-lg .wb-download}
+
+The first times tables children learn: 2, 5 and 10, in mixed order. This free printable workbook has 8 practice pages with 160 problems in total (20 per page) and a full answer key on the last page. No sign-up and no email needed: download the PDF and print it.
+
+### What's inside
+
+- 10 pages: cover, 8 practice pages and an answer key
+- 20 problems per page, with room to write the answers
+- Every workbook contains different problems from page to page
+- US Letter size, prints cleanly in black and white
+
+[Aussi disponible en français](/fr/annee-2/tables-de-multiplication-2-5-et-10.qmd){hreflang=fr} · [More Grade 2 workbooks](/index.qmd#category=Grade%202)
+:::
+:::

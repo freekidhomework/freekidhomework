@@ -1,0 +1,30 @@
+---
+title: "Compter par bonds jusqu'à 1000"
+subtitle: "2e année (CE1) · cahier de maths · PDF gratuit à imprimer"
+description: "Des suites de nombres par bonds de 2, 3, 5, 10 et 100 jusqu'à 1000, en avançant puis à rebours."
+pagetitle: "Compter par bonds jusqu'à 1000 - 2e année cahier de maths (PDF gratuit à imprimer)"
+categories: ["2e année", "Sens du nombre"]
+image: compter-par-bonds-jusqu-a-1000.png
+order: 14
+lang: fr
+---
+
+::: {.wb}
+::: {.wb-preview}
+[![Compter par bonds jusqu'à 1000](compter-par-bonds-jusqu-a-1000.png)](2e-annee-compter-par-bonds-jusqu-a-1000.pdf)
+:::
+::: {.wb-info}
+[Télécharger le PDF (10 pages)](2e-annee-compter-par-bonds-jusqu-a-1000.pdf){.btn .btn-primary .btn-lg .wb-download}
+
+Des suites de nombres par bonds de 2, 3, 5, 10 et 100 jusqu'à 1000, en avançant puis à rebours. Ce cahier gratuit à imprimer contient 8 pages d'exercices, soit 80 exercices au total (10 par page), et un corrigé complet à la dernière page. Aucune inscription ni adresse courriel : téléchargez le PDF et imprimez-le.
+
+### Contenu du cahier
+
+- 10 pages : couverture, 8 pages d'exercices et un corrigé
+- 10 exercices par page, avec de la place pour écrire les réponses
+- Les exercices changent d'une page à l'autre
+- Format Lettre, s'imprime bien en noir et blanc
+
+[Also available in English](/en/grade-2/skip-counting-to-1000.qmd){hreflang=en} · [Autres cahiers de 2e année](/fr/index.qmd#category=2e%20ann%C3%A9e)
+:::
+:::

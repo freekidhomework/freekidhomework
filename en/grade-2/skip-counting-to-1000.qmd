@@ -1,0 +1,30 @@
+---
+title: "Skip counting to 1000"
+subtitle: "Grade 2 · math workbook · free printable PDF"
+description: "Number patterns by 2, 3, 5, 10 and 100 up to 1000, forward on the first four pages and backward on the last four."
+pagetitle: "Skip counting to 1000 - Grade 2 math workbook (free printable PDF)"
+categories: ["Grade 2", "Number sense"]
+image: skip-counting-to-1000.png
+order: 14
+lang: en
+---
+
+::: {.wb}
+::: {.wb-preview}
+[![Skip counting to 1000](skip-counting-to-1000.png)](grade-2-skip-counting-to-1000.pdf)
+:::
+::: {.wb-info}
+[Download the PDF (10 pages)](grade-2-skip-counting-to-1000.pdf){.btn .btn-primary .btn-lg .wb-download}
+
+Number patterns by 2, 3, 5, 10 and 100 up to 1000, forward on the first four pages and backward on the last four. This free printable workbook has 8 practice pages with 80 problems in total (10 per page) and a full answer key on the last page. No sign-up and no email needed: download the PDF and print it.
+
+### What's inside
+
+- 10 pages: cover, 8 practice pages and an answer key
+- 10 problems per page, with room to write the answers
+- Every workbook contains different problems from page to page
+- US Letter size, prints cleanly in black and white
+
+[Aussi disponible en français](/fr/annee-2/compter-par-bonds-jusqu-a-1000.qmd){hreflang=fr} · [More Grade 2 workbooks](/index.qmd#category=Grade%202)
+:::
+:::

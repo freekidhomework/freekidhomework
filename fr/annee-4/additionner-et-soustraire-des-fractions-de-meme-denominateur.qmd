@@ -1,0 +1,30 @@
+---
+title: "Additionner et soustraire des fractions de même dénominateur"
+subtitle: "4e année (CM1) · cahier de maths · PDF gratuit à imprimer"
+description: "Additionner (quatre premières pages) puis soustraire des fractions de même dénominateur. Les réponses ne sont pas simplifiées."
+pagetitle: "Additionner et soustraire des fractions de même dénominateur - 4e année cahier de maths (PDF gratuit à imprimer)"
+categories: ["4e année", "Fractions"]
+image: additionner-et-soustraire-des-fractions-de-meme-denominateur.png
+order: 31
+lang: fr
+---
+
+::: {.wb}
+::: {.wb-preview}
+[![Additionner et soustraire des fractions de même dénominateur](additionner-et-soustraire-des-fractions-de-meme-denominateur.png)](4e-annee-additionner-et-soustraire-des-fractions-de-meme-denominateur.pdf)
+:::
+::: {.wb-info}
+[Télécharger le PDF (10 pages)](4e-annee-additionner-et-soustraire-des-fractions-de-meme-denominateur.pdf){.btn .btn-primary .btn-lg .wb-download}
+
+Additionner (quatre premières pages) puis soustraire des fractions de même dénominateur. Les réponses ne sont pas simplifiées. Ce cahier gratuit à imprimer contient 8 pages d'exercices, soit 160 exercices au total (20 par page), et un corrigé complet à la dernière page. Aucune inscription ni adresse courriel : téléchargez le PDF et imprimez-le.
+
+### Contenu du cahier
+
+- 10 pages : couverture, 8 pages d'exercices et un corrigé
+- 20 exercices par page, avec de la place pour écrire les réponses
+- Les exercices changent d'une page à l'autre
+- Format Lettre, s'imprime bien en noir et blanc
+
+[Also available in English](/en/grade-4/adding-and-subtracting-fractions-with-like-denominators.qmd){hreflang=en} · [Autres cahiers de 4e année](/fr/index.qmd#category=4e%20ann%C3%A9e)
+:::
+:::

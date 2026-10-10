@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs            # GitHub Pages: Settings > Pages > deploy from branch, folder /docs
+  pre-render: R/generate.R    # builds PDFs, previews and workbook pages before each render
+  render:
+    - "*.qmd"
+    - "en/**/*.qmd"
+    - "fr/**/*.qmd"
+  resources:
+    - "en/**/*.pdf"
+    - "fr/**/*.pdf"
+    - "ads.txt"
+    - "CNAME"
+    - ".nojekyll"
+
+website:
+  title: "Free Kid Homework"            # site name (also printed on every PDF)
+  site-url: "https://www.freekidhomework.com"
+  description: "Free printable math workbooks for Grades 1 to 4. Clean 10-page PDFs with answer keys, in English and French. No sign-up."
+  search: true
+  navbar:
+    left:
+      - text: "Workbooks"
+        href: index.qmd
+      - text: "Français"
+        href: fr/index.qmd
+    right:
+      - text: "About"
+        href: about.qmd
+  page-footer:
+    center: "Free to print for home and classroom use · [About](/about.qmd) · [Privacy](/privacy.qmd)"
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    toc: false
+    include-in-header: _adsense.html
+    link-external-newwindow: true

@@ -1,0 +1,30 @@
+---
+title: "Soustractions à 2 chiffres sans retenue"
+subtitle: "2e année (CE1) · cahier de maths · PDF gratuit à imprimer"
+description: "Des soustractions posées de nombres à 2 chiffres, sans retenue (sans emprunt)."
+pagetitle: "Soustractions à 2 chiffres sans retenue - 2e année cahier de maths (PDF gratuit à imprimer)"
+categories: ["2e année", "Soustraction"]
+image: soustractions-a-2-chiffres-sans-retenue.png
+order: 11
+lang: fr
+---
+
+::: {.wb}
+::: {.wb-preview}
+[![Soustractions à 2 chiffres sans retenue](soustractions-a-2-chiffres-sans-retenue.png)](2e-annee-soustractions-a-2-chiffres-sans-retenue.pdf)
+:::
+::: {.wb-info}
+[Télécharger le PDF (10 pages)](2e-annee-soustractions-a-2-chiffres-sans-retenue.pdf){.btn .btn-primary .btn-lg .wb-download}
+
+Des soustractions posées de nombres à 2 chiffres, sans retenue (sans emprunt). Ce cahier gratuit à imprimer contient 8 pages d'exercices, soit 160 exercices au total (20 par page), et un corrigé complet à la dernière page. Aucune inscription ni adresse courriel : téléchargez le PDF et imprimez-le.
+
+### Contenu du cahier
+
+- 10 pages : couverture, 8 pages d'exercices et un corrigé
+- 20 exercices par page, avec de la place pour écrire les réponses
+- Les exercices changent d'une page à l'autre
+- Format Lettre, s'imprime bien en noir et blanc
+
+[Also available in English](/en/grade-2/2-digit-subtraction-without-regrouping.qmd){hreflang=en} · [Autres cahiers de 2e année](/fr/index.qmd#category=2e%20ann%C3%A9e)
+:::
+:::

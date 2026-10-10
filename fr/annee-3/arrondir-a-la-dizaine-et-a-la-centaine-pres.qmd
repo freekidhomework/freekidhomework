@@ -1,0 +1,30 @@
+---
+title: "Arrondir à la dizaine et à la centaine près"
+subtitle: "3e année (CE2) · cahier de maths · PDF gratuit à imprimer"
+description: "Arrondir des nombres jusqu'à 999 à la dizaine près (quatre premières pages), puis à la centaine près."
+pagetitle: "Arrondir à la dizaine et à la centaine près - 3e année cahier de maths (PDF gratuit à imprimer)"
+categories: ["3e année", "Sens du nombre"]
+image: arrondir-a-la-dizaine-et-a-la-centaine-pres.png
+order: 22
+lang: fr
+---
+
+::: {.wb}
+::: {.wb-preview}
+[![Arrondir à la dizaine et à la centaine près](arrondir-a-la-dizaine-et-a-la-centaine-pres.png)](3e-annee-arrondir-a-la-dizaine-et-a-la-centaine-pres.pdf)
+:::
+::: {.wb-info}
+[Télécharger le PDF (10 pages)](3e-annee-arrondir-a-la-dizaine-et-a-la-centaine-pres.pdf){.btn .btn-primary .btn-lg .wb-download}
+
+Arrondir des nombres jusqu'à 999 à la dizaine près (quatre premières pages), puis à la centaine près. Ce cahier gratuit à imprimer contient 8 pages d'exercices, soit 160 exercices au total (20 par page), et un corrigé complet à la dernière page. Aucune inscription ni adresse courriel : téléchargez le PDF et imprimez-le.
+
+### Contenu du cahier
+
+- 10 pages : couverture, 8 pages d'exercices et un corrigé
+- 20 exercices par page, avec de la place pour écrire les réponses
+- Les exercices changent d'une page à l'autre
+- Format Lettre, s'imprime bien en noir et blanc
+
+[Also available in English](/en/grade-3/rounding-to-the-nearest-10-and-100.qmd){hreflang=en} · [Autres cahiers de 3e année](/fr/index.qmd#category=3e%20ann%C3%A9e)
+:::
+:::

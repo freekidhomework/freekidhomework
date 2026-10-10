@@ -1,0 +1,30 @@
+---
+title: "Multiplying 2-digit by 2-digit numbers"
+subtitle: "Grade 4 · math workbook · free printable PDF"
+description: "Long multiplication of two 2-digit numbers, with plenty of space for the working."
+pagetitle: "Multiplying 2-digit by 2-digit numbers - Grade 4 math workbook (free printable PDF)"
+categories: ["Grade 4", "Multiplication"]
+image: multiplying-2-digit-by-2-digit-numbers.png
+order: 27
+lang: en
+---
+
+::: {.wb}
+::: {.wb-preview}
+[![Multiplying 2-digit by 2-digit numbers](multiplying-2-digit-by-2-digit-numbers.png)](grade-4-multiplying-2-digit-by-2-digit-numbers.pdf)
+:::
+::: {.wb-info}
+[Download the PDF (10 pages)](grade-4-multiplying-2-digit-by-2-digit-numbers.pdf){.btn .btn-primary .btn-lg .wb-download}
+
+Long multiplication of two 2-digit numbers, with plenty of space for the working. This free printable workbook has 8 practice pages with 72 problems in total (9 per page) and a full answer key on the last page. No sign-up and no email needed: download the PDF and print it.
+
+### What's inside
+
+- 10 pages: cover, 8 practice pages and an answer key
+- 9 problems per page, with room to write the answers
+- Every workbook contains different problems from page to page
+- US Letter size, prints cleanly in black and white
+
+[Aussi disponible en français](/fr/annee-4/multiplications-2-chiffres-par-2-chiffres.qmd){hreflang=fr} · [More Grade 4 workbooks](/index.qmd#category=Grade%204)
+:::
+:::

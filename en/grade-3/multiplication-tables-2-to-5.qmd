@@ -1,0 +1,30 @@
+---
+title: "Multiplication tables: 2 to 5"
+subtitle: "Grade 3 · math workbook · free printable PDF"
+description: "Mixed practice of the 2, 3, 4 and 5 times tables up to 10 times."
+pagetitle: "Multiplication tables: 2 to 5 - Grade 3 math workbook (free printable PDF)"
+categories: ["Grade 3", "Multiplication"]
+image: multiplication-tables-2-to-5.png
+order: 17
+lang: en
+---
+
+::: {.wb}
+::: {.wb-preview}
+[![Multiplication tables: 2 to 5](multiplication-tables-2-to-5.png)](grade-3-multiplication-tables-2-to-5.pdf)
+:::
+::: {.wb-info}
+[Download the PDF (10 pages)](grade-3-multiplication-tables-2-to-5.pdf){.btn .btn-primary .btn-lg .wb-download}
+
+Mixed practice of the 2, 3, 4 and 5 times tables up to 10 times. This free printable workbook has 8 practice pages with 160 problems in total (20 per page) and a full answer key on the last page. No sign-up and no email needed: download the PDF and print it.
+
+### What's inside
+
+- 10 pages: cover, 8 practice pages and an answer key
+- 20 problems per page, with room to write the answers
+- Every workbook contains different problems from page to page
+- US Letter size, prints cleanly in black and white
+
+[Aussi disponible en français](/fr/annee-3/tables-de-multiplication-de-2-a-5.qmd){hreflang=fr} · [More Grade 3 workbooks](/index.qmd#category=Grade%203)
+:::
+:::

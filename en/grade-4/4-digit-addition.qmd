@@ -1,0 +1,30 @@
+---
+title: "4-digit addition"
+subtitle: "Grade 4 · math workbook · free printable PDF"
+description: "Column addition of 4-digit numbers with regrouping, with sums up to 9,999."
+pagetitle: "4-digit addition - Grade 4 math workbook (free printable PDF)"
+categories: ["Grade 4", "Addition"]
+image: 4-digit-addition.png
+order: 29
+lang: en
+---
+
+::: {.wb}
+::: {.wb-preview}
+[![4-digit addition](4-digit-addition.png)](grade-4-4-digit-addition.pdf)
+:::
+::: {.wb-info}
+[Download the PDF (10 pages)](grade-4-4-digit-addition.pdf){.btn .btn-primary .btn-lg .wb-download}
+
+Column addition of 4-digit numbers with regrouping, with sums up to 9,999. This free printable workbook has 8 practice pages with 128 problems in total (16 per page) and a full answer key on the last page. No sign-up and no email needed: download the PDF and print it.
+
+### What's inside
+
+- 10 pages: cover, 8 practice pages and an answer key
+- 16 problems per page, with room to write the answers
+- Every workbook contains different problems from page to page
+- US Letter size, prints cleanly in black and white
+
+[Aussi disponible en français](/fr/annee-4/additions-a-4-chiffres.qmd){hreflang=fr} · [More Grade 4 workbooks](/index.qmd#category=Grade%204)
+:::
+:::

@@ -1,0 +1,30 @@
+---
+title: "Tables de multiplication de 6 à 9"
+subtitle: "3e année (CE2) · cahier de maths · PDF gratuit à imprimer"
+description: "Un entraînement mélangé sur les tables les plus difficiles : 6, 7, 8 et 9."
+pagetitle: "Tables de multiplication de 6 à 9 - 3e année cahier de maths (PDF gratuit à imprimer)"
+categories: ["3e année", "Multiplication"]
+image: tables-de-multiplication-de-6-a-9.png
+order: 18
+lang: fr
+---
+
+::: {.wb}
+::: {.wb-preview}
+[![Tables de multiplication de 6 à 9](tables-de-multiplication-de-6-a-9.png)](3e-annee-tables-de-multiplication-de-6-a-9.pdf)
+:::
+::: {.wb-info}
+[Télécharger le PDF (10 pages)](3e-annee-tables-de-multiplication-de-6-a-9.pdf){.btn .btn-primary .btn-lg .wb-download}
+
+Un entraînement mélangé sur les tables les plus difficiles : 6, 7, 8 et 9. Ce cahier gratuit à imprimer contient 8 pages d'exercices, soit 160 exercices au total (20 par page), et un corrigé complet à la dernière page. Aucune inscription ni adresse courriel : téléchargez le PDF et imprimez-le.
+
+### Contenu du cahier
+
+- 10 pages : couverture, 8 pages d'exercices et un corrigé
+- 20 exercices par page, avec de la place pour écrire les réponses
+- Les exercices changent d'une page à l'autre
+- Format Lettre, s'imprime bien en noir et blanc
+
+[Also available in English](/en/grade-3/multiplication-tables-6-to-9.qmd){hreflang=en} · [Autres cahiers de 3e année](/fr/index.qmd#category=3e%20ann%C3%A9e)
+:::
+:::

@@ -1,0 +1,30 @@
+---
+title: "Doubles et presque-doubles"
+subtitle: "1re année (CP) · cahier de maths · PDF gratuit à imprimer"
+description: "Les doubles (6 + 6) et les presque-doubles (6 + 7) jusqu'à 20 : une stratégie de calcul mental."
+pagetitle: "Doubles et presque-doubles - 1re année cahier de maths (PDF gratuit à imprimer)"
+categories: ["1re année", "Addition"]
+image: doubles-et-presque-doubles.png
+order: 8
+lang: fr
+---
+
+::: {.wb}
+::: {.wb-preview}
+[![Doubles et presque-doubles](doubles-et-presque-doubles.png)](1re-annee-doubles-et-presque-doubles.pdf)
+:::
+::: {.wb-info}
+[Télécharger le PDF (10 pages)](1re-annee-doubles-et-presque-doubles.pdf){.btn .btn-primary .btn-lg .wb-download}
+
+Les doubles (6 + 6) et les presque-doubles (6 + 7) jusqu'à 20 : une stratégie de calcul mental. Ce cahier gratuit à imprimer contient 8 pages d'exercices, soit 160 exercices au total (20 par page), et un corrigé complet à la dernière page. Aucune inscription ni adresse courriel : téléchargez le PDF et imprimez-le.
+
+### Contenu du cahier
+
+- 10 pages : couverture, 8 pages d'exercices et un corrigé
+- 20 exercices par page, avec de la place pour écrire les réponses
+- Les exercices changent d'une page à l'autre
+- Format Lettre, s'imprime bien en noir et blanc
+
+[Also available in English](/en/grade-1/doubles-and-near-doubles.qmd){hreflang=en} · [Autres cahiers de 1re année](/fr/index.qmd#category=1re%20ann%C3%A9e)
+:::
+:::

@@ -1,0 +1,30 @@
+---
+title: "Additions jusqu'à 20"
+subtitle: "1re année (CP) · cahier de maths · PDF gratuit à imprimer"
+description: "Des additions dont la somme va de 11 à 20, avec passage de la dizaine."
+pagetitle: "Additions jusqu'à 20 - 1re année cahier de maths (PDF gratuit à imprimer)"
+categories: ["1re année", "Addition"]
+image: additions-jusqu-a-20.png
+order: 3
+lang: fr
+---
+
+::: {.wb}
+::: {.wb-preview}
+[![Additions jusqu'à 20](additions-jusqu-a-20.png)](1re-annee-additions-jusqu-a-20.pdf)
+:::
+::: {.wb-info}
+[Télécharger le PDF (10 pages)](1re-annee-additions-jusqu-a-20.pdf){.btn .btn-primary .btn-lg .wb-download}
+
+Des additions dont la somme va de 11 à 20, avec passage de la dizaine. Ce cahier gratuit à imprimer contient 8 pages d'exercices, soit 160 exercices au total (20 par page), et un corrigé complet à la dernière page. Aucune inscription ni adresse courriel : téléchargez le PDF et imprimez-le.
+
+### Contenu du cahier
+
+- 10 pages : couverture, 8 pages d'exercices et un corrigé
+- 20 exercices par page, avec de la place pour écrire les réponses
+- Les exercices changent d'une page à l'autre
+- Format Lettre, s'imprime bien en noir et blanc
+
+[Also available in English](/en/grade-1/addition-within-20.qmd){hreflang=en} · [Autres cahiers de 1re année](/fr/index.qmd#category=1re%20ann%C3%A9e)
+:::
+:::

@@ -1,0 +1,30 @@
+---
+title: "Addition within 10"
+subtitle: "Grade 1 · math workbook · free printable PDF"
+description: "Single-digit addition facts with sums up to 10, the first facts children learn by heart."
+pagetitle: "Addition within 10 - Grade 1 math workbook (free printable PDF)"
+categories: ["Grade 1", "Addition"]
+image: addition-within-10.png
+order: 1
+lang: en
+---
+
+::: {.wb}
+::: {.wb-preview}
+[![Addition within 10](addition-within-10.png)](grade-1-addition-within-10.pdf)
+:::
+::: {.wb-info}
+[Download the PDF (10 pages)](grade-1-addition-within-10.pdf){.btn .btn-primary .btn-lg .wb-download}
+
+Single-digit addition facts with sums up to 10, the first facts children learn by heart. This free printable workbook has 8 practice pages with 160 problems in total (20 per page) and a full answer key on the last page. No sign-up and no email needed: download the PDF and print it.
+
+### What's inside
+
+- 10 pages: cover, 8 practice pages and an answer key
+- 20 problems per page, with room to write the answers
+- Every workbook contains different problems from page to page
+- US Letter size, prints cleanly in black and white
+
+[Aussi disponible en français](/fr/annee-1/additions-jusqu-a-10.qmd){hreflang=fr} · [More Grade 1 workbooks](/index.qmd#category=Grade%201)
+:::
+:::

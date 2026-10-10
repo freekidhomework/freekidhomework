@@ -1,0 +1,30 @@
+---
+title: "4-digit subtraction"
+subtitle: "Grade 4 · math workbook · free printable PDF"
+description: "Column subtraction of 4-digit numbers with regrouping across one or more places."
+pagetitle: "4-digit subtraction - Grade 4 math workbook (free printable PDF)"
+categories: ["Grade 4", "Subtraction"]
+image: 4-digit-subtraction.png
+order: 30
+lang: en
+---
+
+::: {.wb}
+::: {.wb-preview}
+[![4-digit subtraction](4-digit-subtraction.png)](grade-4-4-digit-subtraction.pdf)
+:::
+::: {.wb-info}
+[Download the PDF (10 pages)](grade-4-4-digit-subtraction.pdf){.btn .btn-primary .btn-lg .wb-download}
+
+Column subtraction of 4-digit numbers with regrouping across one or more places. This free printable workbook has 8 practice pages with 128 problems in total (16 per page) and a full answer key on the last page. No sign-up and no email needed: download the PDF and print it.
+
+### What's inside
+
+- 10 pages: cover, 8 practice pages and an answer key
+- 16 problems per page, with room to write the answers
+- Every workbook contains different problems from page to page
+- US Letter size, prints cleanly in black and white
+
+[Aussi disponible en français](/fr/annee-4/soustractions-a-4-chiffres.qmd){hreflang=fr} · [More Grade 4 workbooks](/index.qmd#category=Grade%204)
+:::
+:::

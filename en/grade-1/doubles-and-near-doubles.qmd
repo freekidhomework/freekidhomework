@@ -1,0 +1,30 @@
+---
+title: "Doubles and near doubles"
+subtitle: "Grade 1 · math workbook · free printable PDF"
+description: "Doubles (6 + 6) and near doubles (6 + 7) up to 20, a mental-math strategy for fast addition."
+pagetitle: "Doubles and near doubles - Grade 1 math workbook (free printable PDF)"
+categories: ["Grade 1", "Addition"]
+image: doubles-and-near-doubles.png
+order: 8
+lang: en
+---
+
+::: {.wb}
+::: {.wb-preview}
+[![Doubles and near doubles](doubles-and-near-doubles.png)](grade-1-doubles-and-near-doubles.pdf)
+:::
+::: {.wb-info}
+[Download the PDF (10 pages)](grade-1-doubles-and-near-doubles.pdf){.btn .btn-primary .btn-lg .wb-download}
+
+Doubles (6 + 6) and near doubles (6 + 7) up to 20, a mental-math strategy for fast addition. This free printable workbook has 8 practice pages with 160 problems in total (20 per page) and a full answer key on the last page. No sign-up and no email needed: download the PDF and print it.
+
+### What's inside
+
+- 10 pages: cover, 8 practice pages and an answer key
+- 20 problems per page, with room to write the answers
+- Every workbook contains different problems from page to page
+- US Letter size, prints cleanly in black and white
+
+[Aussi disponible en français](/fr/annee-1/doubles-et-presque-doubles.qmd){hreflang=fr} · [More Grade 1 workbooks](/index.qmd#category=Grade%201)
+:::
+:::

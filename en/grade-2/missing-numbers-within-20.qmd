@@ -1,0 +1,30 @@
+---
+title: "Missing numbers within 20"
+subtitle: "Grade 2 · math workbook · free printable PDF"
+description: "Addition and subtraction sentences up to 20 with one number missing."
+pagetitle: "Missing numbers within 20 - Grade 2 math workbook (free printable PDF)"
+categories: ["Grade 2", "Addition"]
+image: missing-numbers-within-20.png
+order: 13
+lang: en
+---
+
+::: {.wb}
+::: {.wb-preview}
+[![Missing numbers within 20](missing-numbers-within-20.png)](grade-2-missing-numbers-within-20.pdf)
+:::
+::: {.wb-info}
+[Download the PDF (10 pages)](grade-2-missing-numbers-within-20.pdf){.btn .btn-primary .btn-lg .wb-download}
+
+Addition and subtraction sentences up to 20 with one number missing. This free printable workbook has 8 practice pages with 160 problems in total (20 per page) and a full answer key on the last page. No sign-up and no email needed: download the PDF and print it.
+
+### What's inside
+
+- 10 pages: cover, 8 practice pages and an answer key
+- 20 problems per page, with room to write the answers
+- Every workbook contains different problems from page to page
+- US Letter size, prints cleanly in black and white
+
+[Aussi disponible en français](/fr/annee-2/nombres-manquants-jusqu-a-20.qmd){hreflang=fr} · [More Grade 2 workbooks](/index.qmd#category=Grade%202)
+:::
+:::

@@ -1,0 +1,30 @@
+---
+title: "Additionner et soustraire des nombres décimaux (dixièmes)"
+subtitle: "4e année (CM1) · cahier de maths · PDF gratuit à imprimer"
+description: "Additionner (quatre premières pages) puis soustraire des nombres décimaux à un chiffre après la virgule."
+pagetitle: "Additionner et soustraire des nombres décimaux (dixièmes) - 4e année cahier de maths (PDF gratuit à imprimer)"
+categories: ["4e année", "Nombres décimaux"]
+image: additionner-et-soustraire-des-nombres-decimaux-dixiemes.png
+order: 32
+lang: fr
+---
+
+::: {.wb}
+::: {.wb-preview}
+[![Additionner et soustraire des nombres décimaux (dixièmes)](additionner-et-soustraire-des-nombres-decimaux-dixiemes.png)](4e-annee-additionner-et-soustraire-des-nombres-decimaux-dixiemes.pdf)
+:::
+::: {.wb-info}
+[Télécharger le PDF (10 pages)](4e-annee-additionner-et-soustraire-des-nombres-decimaux-dixiemes.pdf){.btn .btn-primary .btn-lg .wb-download}
+
+Additionner (quatre premières pages) puis soustraire des nombres décimaux à un chiffre après la virgule. Ce cahier gratuit à imprimer contient 8 pages d'exercices, soit 160 exercices au total (20 par page), et un corrigé complet à la dernière page. Aucune inscription ni adresse courriel : téléchargez le PDF et imprimez-le.
+
+### Contenu du cahier
+
+- 10 pages : couverture, 8 pages d'exercices et un corrigé
+- 20 exercices par page, avec de la place pour écrire les réponses
+- Les exercices changent d'une page à l'autre
+- Format Lettre, s'imprime bien en noir et blanc
+
+[Also available in English](/en/grade-4/adding-and-subtracting-decimals-tenths.qmd){hreflang=en} · [Autres cahiers de 4e année](/fr/index.qmd#category=4e%20ann%C3%A9e)
+:::
+:::

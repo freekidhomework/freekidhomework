@@ -1,0 +1,7 @@
+_build/
+.quarto/
+/.Rproj.user/
+.Rhistory
+
+/.quarto/
+**/*.quarto_ipynb

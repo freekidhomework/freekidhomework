@@ -1,0 +1,9 @@
+---
+title: "Privacy"
+---
+
+This site has no accounts and does not ask for your name, email address or any other personal information.
+
+The site is written for parents and teachers. It shows advertisements provided by Google AdSense. Google and its partners may use cookies to show and measure ads. You can read how Google uses this information, and change your ad settings, at [policies.google.com/technologies/partner-sites](https://policies.google.com/technologies/partner-sites).
+
+*Template text: review it before launch, and add a contact email address.*

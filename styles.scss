@@ -1,0 +1,25 @@
+/*-- scss:defaults --*/
+$primary: #2563eb;
+$font-family-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+$navbar-bg: #ffffff;
+$navbar-fg: #1b1f24;
+$navbar-hl: #2563eb;
+
+/*-- scss:rules --*/
+.navbar { border-bottom: 1px solid #e5e7eb; }
+.navbar-brand { font-weight: 700; }
+.quarto-title .title { font-weight: 700; }
+
+/* Listing cards */
+.quarto-listing .card { border: 1px solid #e5e7eb; border-radius: 12px; overflow: hidden; transition: box-shadow .15s, transform .15s; }
+.quarto-listing .card:hover { box-shadow: 0 6px 20px rgba(37, 99, 235, .15); transform: translateY(-2px); }
+.quarto-listing .card-img-top { object-fit: cover; object-position: top; background: #f3f4f6; border-bottom: 1px solid #e5e7eb; }
+.quarto-listing .card-title { font-size: 1rem; font-weight: 700; }
+.quarto-listing .listing-category { border-radius: 999px; }
+
+/* Workbook page */
+.wb { display: grid; grid-template-columns: minmax(0, 340px) minmax(0, 1fr); gap: 2rem; align-items: start; margin-top: 1.5rem; }
+.wb-preview img { width: 100%; border: 1px solid #e5e7eb; border-radius: 10px; box-shadow: 0 4px 16px rgba(0, 0, 0, .08); }
+.wb-download { display: inline-block; margin-bottom: 1.25rem; font-weight: 700; border-radius: 10px; }
+.wb-info h3 { margin-top: 1.25rem; font-size: 1.1rem; }
+@media (max-width: 700px) { .wb { grid-template-columns: 1fr; } .wb-download { width: 100%; } }
